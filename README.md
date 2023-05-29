@@ -1,4 +1,4 @@
-# Cat Detection Script Documentation
+# Cat Detection Script Documentation (Python Script)
 
 This script performs real-time cat detection using the YOLO (You Only Look Once) object detection algorithm and controls scene switching in OBS Studio based on cat occupancy.
 
