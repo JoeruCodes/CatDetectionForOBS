@@ -5,6 +5,7 @@ This script performs real-time cat detection using the YOLO (You Only Look Once)
 ## Prerequisites
 
 Before running the script, make sure you have the following installed:
+- **IMPORTANT Download yolov3.weights file using `wget https://pjreddie.com/media/files/yolov3.weights` and place it in the same folder as the other files in the repo**
 
 - Python 3.x
 - OpenCV (`pip install opencv-python`)
